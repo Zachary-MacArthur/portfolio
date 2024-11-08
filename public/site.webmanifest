@@ -1,0 +1,9 @@
+{
+  "name": "Terminal Portfolio by Zachary MacArthur",
+  "short_name": "Terminal",
+  "description": "Zachary MacArthur's terminal portfolio website coded with ReactJS.",
+  "start_url": "/",
+  "theme_color": "#1d2a35",
+  "background_color": "#1d2a35",
+  "display": "standalone"
+}
