@@ -12,7 +12,7 @@ const About: React.FC = () => {
         lives and works in montreal qc
       </p>
       <p>
-      sotware developer, musician, father, husband
+      software developer, musician, father, husband
       </p>
     
     </AboutWrapper>
