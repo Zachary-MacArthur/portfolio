@@ -17,7 +17,7 @@ const Education: React.FC = () => {
 
 const eduBg = [
   {
-    title: "bachelor of fine arts ~ intermedia cyberarts, electroacoustic studies",
+    title: "bachelor of fine arts | intermedia cyberarts, electroacoustic studies",
     desc: "concorida university | 2012 -2016, montreal qc",
   },
 

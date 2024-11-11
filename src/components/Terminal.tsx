@@ -30,11 +30,12 @@ export const commands: Command = [
   { cmd: "about", desc: "about", tab: 8 },
   { cmd: "email", desc: "send an email to me", tab: 8 },
   { cmd: "education", desc: "display education", tab: 4 },
+  { cmd: "cv", desc: "curriculum vitae", tab: 11 },
   { cmd: "links", desc: "connect with me", tab: 8 },
   { cmd: "projects", desc: "selected work", tab: 5 },
   { cmd: "library", desc: "current reading list", tab: 6 },
+  { cmd: "music", desc: "discography", tab: 8 },
   { cmd: "info", desc: "show available commands", tab: 9 },
-  { cmd: "history", desc: "view command history", tab: 6 },
   { cmd: "clear", desc: "clear the terminal", tab: 8 },
 ];
 

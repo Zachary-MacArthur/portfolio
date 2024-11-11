@@ -12,6 +12,8 @@ import Projects from "./commands/Projects";
 import { OutputContainer, UsageDiv } from "./styles/Output.styled";
 import { termContext } from "./Terminal";
 import { useContext } from "react";
+import Music from "./commands/Music";
+import Cv from "./commands/Cv";
 
 type Props = {
   index: number;
@@ -42,6 +44,8 @@ const Output: React.FC<Props> = ({ index, cmd }) => {
           projects: <Projects />,
           home: <Home />,
           library: <Books />,
+          music: <Music />,
+          cv: <Cv />,
         }[cmd]
       }
     </OutputContainer>
