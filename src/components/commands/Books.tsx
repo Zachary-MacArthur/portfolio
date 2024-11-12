@@ -10,7 +10,7 @@ const Books: React.FC = () => {
       <EduIntro>  <p>reading list:</p></EduIntro>
       <EduList>
         <p> <a className="desc" href="https://www.amazon.com/Hypersea-Life-Mark-S-McMenamin/dp/0231075316" target="_blank">hypersea: life on land</a></p>
-        <p> <a className="desc" href="https://punctumbooks.com/titles/leper-creativity-cyclonopedia-symposium/" target="_blank">Leper Creativity: Cyclonopedia Symposium</a></p>
+        <p> <a className="desc" href="https://punctumbooks.com/titles/leper-creativity-cyclonopedia-symposium/" target="_blank">leper creativity: cyclonopedia cymposium</a></p>
         <p> <a className="desc" href="https://www.goodreads.com/book/show/60215.The_Urth_of_the_New_Sun" target="_blank">urth of the new sun, gene wolfe</a></p>
         <p> <a className="desc" href="https://www.holybooks.com/wp-content/uploads/2010/05/The-Holy-Bible-King-James-Version.pdf" target="_blank">the new testament</a></p>
         <p> <a className="desc" href="https://www.lespressesdureel.com/EN/ouvrage.php?id=3571" target="_blank">in the canyon, revise the canon</a></p>
