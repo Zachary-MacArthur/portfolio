@@ -8,7 +8,7 @@ const Cv: React.FC = () => {
     <Wrapper>
       <EduIntro>  <p></p></EduIntro>
       <EduList>
-        <p> <a className="desc" href="https://drive.google.com/file/d/1zPJWYVVBLXUOAbIYgIVKHHr3nnjGZ33l/view?usp=sharing" target="_blank">curriculum vitae pdf</a></p>
+        <p> <a className="desc" href="https://drive.google.com/file/d/1xn5ZHxJ8P27_8DTDhamNBnp5dksUhzx7/view?usp=sharing" target="_blank">curriculum vitae pdf</a></p>
        
       </EduList>
     </Wrapper>
